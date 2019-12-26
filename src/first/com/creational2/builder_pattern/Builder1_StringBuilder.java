@@ -1,4 +1,4 @@
-package first.com.creational3.builder_pattern;
+package first.com.creational2.builder_pattern;
 
 public class Builder1_StringBuilder {
 

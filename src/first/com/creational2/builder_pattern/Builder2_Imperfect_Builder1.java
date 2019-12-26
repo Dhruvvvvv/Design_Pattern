@@ -1,4 +1,4 @@
-package first.com.creational3.builder_pattern;
+package first.com.creational2.builder_pattern;
 
 public class Builder2_Imperfect_Builder1 {
 	public static void main(String[] args) {
