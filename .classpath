@@ -8,5 +8,6 @@
 	<classpathentry kind="lib" path="C:/Users/Shahan/Downloads/javafx-base-14-ea+1-linux.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Shahan/Downloads/javafx-graphics-14-ea+1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Shahan/Downloads/javafx-graphics-14-ea+1-linux.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shahan/Downloads/sun.misc.base64decoder.jar/sun.misc.BASE64Decoder.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
